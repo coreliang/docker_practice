@@ -69,3 +69,4 @@ $ sudo rm /usr/local/bin/docker-compose
 ```bash
 $ sudo pip uninstall docker-compose
 ```
+*注：* 在安装新版的docker-ce时，默认已经集成了compose命令，不需要在独立安装了，即：docker compose 命令。
